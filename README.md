@@ -27,7 +27,7 @@ Copyright &copy; 2019-2020 Coral Studio.All rights reserverd.
 		+ 点击“关于”，您可以看到我们的版权说明
 + **特别说明：当您关闭该软件时，该软件仍会在后台运行，如果要彻底关闭，请点击“应用程序”栏里的“退出程序”，或右键点击后台程序小图标，选择“退出”**
 
-##English edition:
+## English edition:
 > This application helps you to hack Red Spider(红蜘蛛网络多媒体教室学生端) easily and quickly.
 Please open this program with Visual Studio (at least version 2016)
 This program was produced by Luo Hongyou, a member of Coral Studio
