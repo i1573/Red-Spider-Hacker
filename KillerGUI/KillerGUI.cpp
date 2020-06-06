@@ -353,7 +353,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 				MessageBox(hWnd, L"该功能有待开发！", PROGRAM_DISPLAY_NAME, MB_OK | MB_ICONERROR);
 				break;
             case IDM_ABOUT:
-				MessageBox(hWnd, L"Copyright (C) 2013-2019 ETO.\nCopyright (C) 2018-2019 FreeSTD Inc.\nCopyright (C) 2018-2019 Chengdu Zuosi Co.Ltd.\nAll Rights Reserved.", PROGRAM_DISPLAY_NAME, MB_OK | MB_ICONINFORMATION);
+				MessageBox(hWnd, L"Copyright (C) 2019-2020 Coral Studio.\nAll Rights Reserved.", PROGRAM_DISPLAY_NAME, MB_OK | MB_ICONINFORMATION);
                 break;
 			case ID_SHOW:
 				ShowWindow(hWnd, SW_SHOW);
