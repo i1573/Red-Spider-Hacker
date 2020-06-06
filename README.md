@@ -1,10 +1,14 @@
 # Red-Spider-Hacker
 ## 中文版本：
 > 这个程序能够帮助你轻松脱离“红蜘蛛网络多媒体教室学生端”的控制
-本程序由Coral工作室成员骆泓佑制作
-请用Visual Studio（版本至少为2016年版）打开该程序
-遵守GPL-3.0开源许可
-Copyright &copy; 2019-2020 Coral Studio.All rights reserverd.
+
+> 本程序由Coral工作室成员骆泓佑制作
+
+> 请用Visual Studio（版本至少为2016年版）打开该程序
+
+> 遵守GPL-3.0开源许可
+
+> Copyright &copy; 2019-2020 Coral Studio.All rights reserverd.
 
 这里一共有8个文件，其中有5个为**运行代码所需要的文件↓**
 + APIHook
